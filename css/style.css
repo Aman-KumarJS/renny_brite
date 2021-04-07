@@ -1563,11 +1563,13 @@ ul.Menu_footer li {
 
 ul.Menu_footer li a {
   display: block;
+  float: left;
+  margin: 0.5rem;
   color: #fcfbfb;
   font-size: 17px;
 }
 ul.Menu_footer li a:hover {
-  color: #f4b328;
+  color: #3e7f21;
 }
 
 ul.loca li {
